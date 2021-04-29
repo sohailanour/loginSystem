@@ -1,0 +1,44 @@
+body {
+  background-color: #24353f;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+h1,
+.logBtn {
+  color: #17a2b8;
+}
+
+.formlayer {
+  box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+
+.formlayer input,
+.formlayer input:focus {
+  background-color: transparent;
+  font-size: 18px;
+  box-shadow: none;
+  margin: 16px auto;
+  color: white;
+}
+
+.logBtn {
+  border: 1px solid #17a2b8;
+}
+
+.logBtn:hover {
+  color: white;
+  background-color: #17a2b8;
+}
+
+/* Home page css style */
+.navbar {
+  box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+  font-weight: bolder;
+}
+
+.Welcome {
+  box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
